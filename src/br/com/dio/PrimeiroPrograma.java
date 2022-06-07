@@ -10,7 +10,7 @@ public class PrimeiroPrograma {
 		Livro livro = new Livro();
 		System.out.println(gato);
 		System.out.println(livro);	
-		// TODO Auto-generated method stub
+		
 		/*
 		int a =2;
 		int b =3;
